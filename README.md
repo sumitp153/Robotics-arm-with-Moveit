@@ -1,3 +1,4 @@
+<img width="1758" height="969" alt="Screenshot 2025-12-07 232735" src="https://github.com/user-attachments/assets/7a332fe5-fd0c-41a1-af03-aa3d54d27388" />
 # Robotics-arm-with-Moveit
 This repository features a custom robotic arm integrated with MoveIt for motion planning and control. It includes a URDF/xacro robot model, MoveIt configuration (planning groups, joints &amp; links), RViz visualization, and demo motion plans with joint and pose goals — perfect for students and beginner roboticists learning the MoveIt.
 This project launches a custom robotic arm in ROS2 with:
